@@ -6,7 +6,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: ardoq/ci-docker-front:0.4
+      - image: buildkite/puppeteer:latest
 
     working_directory: ~/repo
 

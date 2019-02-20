@@ -27,7 +27,6 @@ module.exports = {
     command: `npm start`,
     port: 3001,
     launchTimeout: 30000,
-    usedPortAction: "ignore",
-    debug: true
+    usedPortAction: "ignore"
   }
 };
