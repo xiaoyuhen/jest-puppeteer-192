@@ -7,5 +7,3 @@ This is an example of testing with jest-puppeteer
 ```
 npm run test:integration
 ```
-
-
